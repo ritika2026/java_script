@@ -5,5 +5,5 @@ var year;
 age=22;
 console.log("after a year age will be",age);
 console.log(bday);
-console.table([bday,age,year]);
+console.table([bday,age,year])
 //avoid use of var keyword coz of functional scope issue
